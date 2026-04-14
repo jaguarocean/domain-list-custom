@@ -1,0 +1,20 @@
+# Developer ecosystem list for downstream proxy providers.
+include:docker
+include:github
+include:gitlab
+include:npmjs
+
+domain:crates.io
+domain:golang.org
+domain:gradle.org
+domain:jsdelivr.net
+domain:nuget.org
+domain:pkg.go.dev
+domain:pypi.org
+full:repo1.maven.org
+domain:rubygems.org
+domain:search.maven.org
+full:sum.golang.org
+domain:pythonhosted.org
+full:files.pythonhosted.org
+full:proxy.golang.org

@@ -1,0 +1,9 @@
+# Social / community list for downstream proxy providers.
+include:discord
+include:facebook
+include:instagram
+include:messenger
+include:threads
+include:telegram
+include:twitter
+include:whatsapp

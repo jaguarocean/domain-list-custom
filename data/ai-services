@@ -1,0 +1,39 @@
+# Semantic AI services list for downstream proxy providers.
+include:openai
+include:anthropic
+include:groq
+include:perplexity
+include:poe
+
+# GitHub / Microsoft AI
+full:copilot.microsoft.com
+domain:githubcopilot.com
+
+# Google AI / Gemini / AI Studio / NotebookLM / DeepMind
+domain:ai.com
+full:ai.google.dev
+domain:aistudio.google.com
+full:alkalicore-pa.clients6.google.com
+full:alkalimakersuite-pa.clients6.google.com
+domain:apis.google.com
+domain:bard.google.com
+domain:deepmind.com
+domain:deepmind.google
+domain:gemini.google.com
+full:generativelanguage.googleapis.com
+domain:generativeai.google
+full:geller-pa.googleapis.com
+domain:makersuite.google.com
+domain:notebooklm.google
+domain:notebooklm.google.com
+full:proactivebackend-pa.googleapis.com
+full:waa-pa.clients6.google.com
+
+# Other AI products
+domain:dify.ai
+full:gateway.ai.cloudflare.com
+domain:jasper.ai
+domain:clipdrop.co
+domain:meta.ai
+domain:openart.ai
+domain:x.ai

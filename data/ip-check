@@ -1,0 +1,13 @@
+# IP check / leak detection list for downstream proxy providers.
+domain:browserleaks.com
+domain:dnsleaktest.com
+domain:icanhazip.com
+domain:ifconfig.co
+domain:ifconfig.me
+domain:ip-api.com
+domain:ip.sb
+domain:ipify.org
+domain:ipleak.net
+domain:ipinfo.io
+domain:whatismyipaddress.com
+domain:whoer.net

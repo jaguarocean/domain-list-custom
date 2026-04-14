@@ -1,0 +1,12 @@
+# Meeting / collaboration list for downstream proxy providers.
+include:webex
+include:zoom
+
+full:meet.google.com
+full:teams.live.com
+full:teams.microsoft.com
+domain:zoomapp.cn
+domain:zoomcloud.com.cn
+domain:zoomgov.com
+domain:zoomstatic.com
+domain:zoomus.cn
